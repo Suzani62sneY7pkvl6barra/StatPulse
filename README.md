@@ -1,2 +1,3 @@
 # StatPulseStatPulseIntroduction
 StatisticsObjectives
+SetupGuide
