@@ -3,3 +3,4 @@ StatisticsObjectives
 SetupGuide
 StatisticalFeatures
 DependenciesList
+CodeExamples
