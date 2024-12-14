@@ -4,3 +4,4 @@ SetupGuide
 StatisticalFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
