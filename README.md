@@ -5,3 +5,4 @@ StatisticalFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
