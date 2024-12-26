@@ -10,3 +10,4 @@ ErrorHandling
 LicenseDetails
 StatisticsFAQ
 Changelog
+TestingInstructions
