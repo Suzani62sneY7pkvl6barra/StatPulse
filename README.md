@@ -11,3 +11,4 @@ LicenseDetails
 StatisticsFAQ
 Changelog
 TestingInstructions
+StatisticalPerformance
