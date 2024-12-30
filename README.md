@@ -12,3 +12,4 @@ StatisticsFAQ
 Changelog
 TestingInstructions
 StatisticalPerformance
+CommunityResources
